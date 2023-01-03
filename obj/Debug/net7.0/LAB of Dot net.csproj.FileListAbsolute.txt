@@ -1,0 +1,15 @@
+/Users/prakashtamang/Desktop/LAB of Dot net/bin/Debug/net7.0/LAB of Dot net
+/Users/prakashtamang/Desktop/LAB of Dot net/bin/Debug/net7.0/LAB of Dot net.deps.json
+/Users/prakashtamang/Desktop/LAB of Dot net/bin/Debug/net7.0/LAB of Dot net.runtimeconfig.json
+/Users/prakashtamang/Desktop/LAB of Dot net/bin/Debug/net7.0/LAB of Dot net.dll
+/Users/prakashtamang/Desktop/LAB of Dot net/bin/Debug/net7.0/LAB of Dot net.pdb
+/Users/prakashtamang/Desktop/LAB of Dot net/obj/Debug/net7.0/LAB of Dot net.csproj.AssemblyReference.cache
+/Users/prakashtamang/Desktop/LAB of Dot net/obj/Debug/net7.0/LAB of Dot net.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prakashtamang/Desktop/LAB of Dot net/obj/Debug/net7.0/LAB of Dot net.AssemblyInfoInputs.cache
+/Users/prakashtamang/Desktop/LAB of Dot net/obj/Debug/net7.0/LAB of Dot net.AssemblyInfo.cs
+/Users/prakashtamang/Desktop/LAB of Dot net/obj/Debug/net7.0/LAB of Dot net.csproj.CoreCompileInputs.cache
+/Users/prakashtamang/Desktop/LAB of Dot net/obj/Debug/net7.0/LAB of Dot net.dll
+/Users/prakashtamang/Desktop/LAB of Dot net/obj/Debug/net7.0/refint/LAB of Dot net.dll
+/Users/prakashtamang/Desktop/LAB of Dot net/obj/Debug/net7.0/LAB of Dot net.pdb
+/Users/prakashtamang/Desktop/LAB of Dot net/obj/Debug/net7.0/LAB of Dot net.genruntimeconfig.cache
+/Users/prakashtamang/Desktop/LAB of Dot net/obj/Debug/net7.0/ref/LAB of Dot net.dll
