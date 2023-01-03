@@ -1,2 +1,4 @@
-bool flag = true;
-if (flag) Console.WriteLine(flag);
+string name = "MagicalTamang";
+if (name == "bob") Console.WriteLine("Found Bob");
+else if (name == "MagicalTamang") Console.WriteLine("Found MagicalTamang");
+else Console.WriteLine("Found Chuck");
